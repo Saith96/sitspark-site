@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saith96.github.io/sitspark-site/sitemap.xml
